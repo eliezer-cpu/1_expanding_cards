@@ -1,5 +1,5 @@
 const open = document.querySelector("#open");
-const close = document.getElementById("close");
+const close = document.querySelector("#close");
 const container = document.querySelector(".container");
 
 open.addEventListener("click", () => {
